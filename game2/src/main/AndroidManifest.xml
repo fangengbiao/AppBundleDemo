@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
-    package="com.gfan.game">
+    package="com.gfan2.game">
 
     <dist:module
         dist:instant="false"
-        dist:title="@string/title_game">
+        dist:title="game2">
         <dist:delivery>
             <dist:on-demand />
         </dist:delivery>

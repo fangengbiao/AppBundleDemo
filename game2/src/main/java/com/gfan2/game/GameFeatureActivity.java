@@ -1,8 +1,8 @@
-package com.fireantzhang.game;
+package com.gfan2.game;
 
 import android.os.Bundle;
 
-import com.fireantzhang.aabdemo.BaseSplitActivity;
+import com.gfan.aabdemo.BaseSplitActivity;
 
 public class GameFeatureActivity extends BaseSplitActivity {
 

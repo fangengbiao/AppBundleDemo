@@ -55,6 +55,6 @@ echoInfo "   已经安装到手机"
 
 echoInfo "6. 正在启动应用..."
 
-adb shell am start -n "com.fireantzhang.aabdemo/com.fireantzhang.aabdemo.MainActivity" -a android.intent.action.MAIN -c android.intent.category.LAUNCHER
+adb shell am start -n "com.gfan.aabdemo/com.gfan.aabdemo.MainActivity" -a android.intent.action.MAIN -c android.intent.category.LAUNCHER
 
 echoInfo "   应用已经启动..."

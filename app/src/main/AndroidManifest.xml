@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.fireantzhang.aabdemo">
+    package="com.gfan.aabdemo">
 
     <application
         android:name=".MyApp"

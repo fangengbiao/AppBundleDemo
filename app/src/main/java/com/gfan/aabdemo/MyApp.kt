@@ -1,4 +1,4 @@
-package com.fireantzhang.aabdemo
+package com.gfan.aabdemo
 
 import android.content.Context
 import com.google.android.play.core.splitcompat.SplitCompatApplication

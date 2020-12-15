@@ -1,4 +1,4 @@
-package com.fireantzhang.aabdemo
+package com.gfan.aabdemo
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -220,7 +220,7 @@ class MainActivity : AppCompatActivity() {
 
         // 由于无法直接访问到动态模块的类，所以需要采用隐式启动
         val intent = Intent()
-        intent.setClassName(this, "com.fireantzhang.game.GameFeatureActivity")
+        intent.setClassName(this, "com.gfan.game.GameFeatureActivity")
         startActivity(intent)
     }
 }

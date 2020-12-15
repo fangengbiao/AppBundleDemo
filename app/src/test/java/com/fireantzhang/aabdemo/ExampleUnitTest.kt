@@ -1,4 +1,4 @@
-package com.fireantzhang.aabdemo
+package com.gfan.aabdemo
 
 import org.junit.Test
 

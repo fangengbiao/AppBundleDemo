@@ -13,7 +13,7 @@ android {
     buildToolsVersion versions.buildTools
 
     defaultConfig {
-        applicationId "com.fireantzhang.aabdemo"
+        applicationId "com.nio.gfan"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
         versionCode 3
@@ -100,7 +100,7 @@ android {
         }
     }
     // 动态模块声明
-    dynamicFeatures = [":game"]
+    dynamicFeatures = [":game2"]
 }
 
 dependencies {
